@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="example.wangdachui.aboutrecyclerview">
+
+    <application>
+        <activity android:name=".RvMainActivity" />
+        <activity android:name=".activity.ItemTouchHelperActivity"></activity>
+    </application>
+
+</manifest>
